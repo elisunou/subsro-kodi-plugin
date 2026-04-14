@@ -304,7 +304,7 @@ Consultați fișierul LICENSE pentru detalii.
 
 ## ⭐ Suport
 
-https://revolut.me/ionutrevoo
+https://revolut.me/elisunou
 
 Dacă extensia vă este utilă:
 
